@@ -10,7 +10,7 @@ Every project here includes the complete code **and** the exact prompt used to b
 
 | Project | Description | Prompt |
 |---|---|---|
-| [pomodoro-timer](./spas/pomodoro-timer) | Pomodoro timer with a tomato-shaped progress indicator, browser notifications, and live tab title updates | [prompt.md](./spas/pomodoro-timer/prompt.md) |
+| [pomodoro-timer](./applications/pomodoro-timer) | Pomodoro timer with a tomato-shaped progress indicator, browser notifications, and live tab title updates | [prompt.md](./applications/pomodoro-timer/prompt.md) |
 
 More added weekly.
 

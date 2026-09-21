@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+build/
+dist/
+
+# env files
+.env*
+
+# misc
+*.tsbuildinfo
+npm-debug.log*
